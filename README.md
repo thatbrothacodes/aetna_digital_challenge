@@ -1,4 +1,4 @@
-#Mark Washington's Aetna Digial Coding Challenge
+### Mark Washington's Aetna Digial Coding Challenge
 
 1. Install Docker
 2. Clone repository
