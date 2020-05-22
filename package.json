@@ -1,0 +1,30 @@
+{
+  "name": "aetna_digital_challenge",
+  "version": "0.1.0",
+  "description": "Aetna Digital Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d build",
+    "start": "node build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatbrothacodes/aetna_digital_challenge.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "thatbrothacodes@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thatbrothacodes/aetna_digital_challenge/issues"
+  },
+  "homepage": "https://github.com/thatbrothacodes/aetna_digital_challenge#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.6"
+  }
+}
